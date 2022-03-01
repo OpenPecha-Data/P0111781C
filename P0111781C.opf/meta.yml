@@ -1,0 +1,13 @@
+id: P0111781C
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 1,17: Saṃghabhedavastu'
+  language: bo
+  volumes:
+    0af2c0b44c1647629f9ae8bc980653fd:
+      title: Saṃghabhedavastu
+      base_file: Saṃghabhedavastu.txt
+      work_id: WF215F2EA
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:22:06.125900'
+last_modified_at: '2022-03-01T22:22:06.125909'
